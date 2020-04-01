@@ -5,7 +5,7 @@ exports.up = function(knex) {
 
     table.string('title').notNullable();
     table.string('description').notNullable();
-    table.decimal('value').notNullable();
+    table.decimal('value').notNullable();https://www.youtube.com/watch?v=U3dq0rSnx08https://www.youtube.com/watch?v=U3dq0rSnx08
 
     table.string('ong_id').notNullable();   
 
